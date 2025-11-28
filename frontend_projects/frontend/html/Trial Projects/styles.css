@@ -1,0 +1,39 @@
+html,
+body {
+  min-width: 290px;
+  color: #4d4e53;
+  background-color: #ffffff;
+  font-family: 'Open Sans', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+#personal_info li {
+    display: inline-block;
+   /* position: relative;*/
+    list-style: none;
+    padding-left: 0px;
+   /* border: solid;*/
+    margin: 0px;
+    text-decoration: none;
+}
+
+#personal_info ul {
+    border: black;
+    margin-left: 0px;
+    padding-left: 3px;
+}
+
+textarea {
+    width: 98%;
+    height: 30px;
+    box-sizing: border-box;
+}
+
+fieldset {
+    padding-right: 0px;
+   margin-bottom: 10px;
+}
+
+main {
+    justify-content: flex;
+}

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Sample Survey Form</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1>SURVEY FORM</h1>
+        <p>We appreciate your participation in our industry. Please take the survey and leave a remark below to help with future improvements.</p>
+        <main>
+                <fieldset id="personal_info">
+                    <h3><strong>Personal Information</strong></h3>
+                        <ul>
+                    <li><label>Name <input id="name" type="text" placeholder="Enter your name" required></label></li>
+                    <li><label>Gender <select>
+                    <option value="" >Select</option>
+                    <option value="male">Male</option>
+                    <option value="female">Female</option>
+                    </select></label></li>
+                <li><label>Address <input id="address" type="text" placeholder="Enter your address" required></label></li>
+                <li><label>Email <input id="email" type="email" placeholder="Enter your email" required></label></li>
+                <li><label>Phone <input id="phone" type="tel" placeholder="Enter your phone number" pattern="[0-9]{11,14}" required></label></li>
+            </ul>
+        </fieldset>
+        <fieldset>
+            <p><strong>Question 1. </strong>Type here your question. Which is your question?</p>
+            <textarea></textarea>
+        </fieldset>
+        <fieldset>
+            <p><strong>Question 2. </strong>Type here your question. Which is your question?</p>
+            <textarea></textarea>
+        </fieldset>
+        <fieldset>
+            <p><strong>Question 3. </strong>Type here your question. Which is your question?</p>
+            <textarea></textarea>
+        </fieldset>
+    </main>
+    </body>
+</html>

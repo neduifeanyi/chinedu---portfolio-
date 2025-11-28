@@ -1,0 +1,272 @@
+Changing mode to: REPL, please reconnect terminal
+2000-01-01 00:01:32 [APPHELPER] INFO REPL mode is active
+2000-01-01 00:01:32 [APPLICATION] INFO UTC time device offset: 0(hrs):0(min)
+2000-01-01 00:01:33 [GPS] INFO UTC automatic time synchronisation enabled on GPS
+2000-01-01 00:01:33 [DRIVER_MANAGER] INFO Acquiring parameters NavilockMd6 sensor: GPS
+2000-01-01 00:01:33 [DRIVER_MANAGER] INFO NavilockMd6 sensor detected: GPS
+INITING THIS
+INITING THIS
+INITING THIS
+INITING THIS
+2000-01-01 00:01:33 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_1
+2000-01-01 00:01:34 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_1
+2000-01-01 00:01:34 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_2
+2000-01-01 00:01:34 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_2
+2000-01-01 00:01:34 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_3
+2000-01-01 00:01:34 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_3
+2000-01-01 00:01:34 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_4
+2000-01-01 00:01:39 [DRIVER_MANAGER] WARN Sensor [OIC05_4] timeout occurred: 5000, Sensor not detected!
+2000-01-01 00:01:39 [NMEA_GEN] INFO Defined generic NMEA sentence(s): ['MWV']
+2000-01-01 00:01:39 [NMEA_GEN] INFO Defined generic NMEA sentence(s): ['PVRS0']
+2000-01-01 00:01:39 [DRIVER_MANAGER] INFO Acquiring parameters generic_nmea sensor: MWV
+2000-01-01 00:01:40 [DRIVER_MANAGER] INFO generic_nmea sensor detected: MWV
+2000-01-01 00:01:40 [DRIVER_MANAGER] INFO Acquiring parameters generic_nmea sensor: PVRS0
+Changing mode to: REPL, please reconnect terminal
+2000-01-01 00:01:49 [APPHELPER] INFO REPL mode is active
+2000-01-01 00:01:49 [APPLICATION] INFO UTC time device offset: 0(hrs):0(min)
+2000-01-01 00:01:50 [GPS] INFO UTC automatic time synchronisation enabled on GPS
+2000-01-01 00:01:50 [DRIVER_MANAGER] INFO Acquiring parameters NavilockMd6 sensor: GPS
+2000-01-01 00:01:50 [DRIVER_MANAGER] INFO NavilockMd6 sensor detected: GPS
+INITING THIS
+INITING THIS
+INITING THIS
+INITING THIS
+2000-01-01 00:01:50 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_1
+2000-01-01 00:01:50 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_1
+2000-01-01 00:01:50 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_2
+2000-01-01 00:01:50 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_2
+2000-01-01 00:01:50 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_3
+2000-01-01 00:01:51 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_3
+2000-01-01 00:01:51 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_4
+2000-01-01 00:01:56 [DRIVER_MANAGER] WARN Sensor [OIC05_4] timeout occurred: 5000, Sensor not detected!
+2000-01-01 00:01:56 [NMEA_GEN] INFO Defined generic NMEA sentence(s): ['MWV']
+2000-01-01 00:01:56 [NMEA_GEN] INFO Defined generic NMEA sentence(s): ['PVRS0']
+2000-01-01 00:01:56 [DRIVER_MANAGER] INFO Acquiring parameters generic_nmea sensor: MWV
+2000-01-01 00:01:56 [DRIVER_MANAGER] INFO generic_nmea sensor detected: MWV
+2000-01-01 00:01:56 [DRIVER_MANAGER] INFO Acquiring parameters generic_nmea sensor: PVRS0
+2000-01-01 00:02:31 [DRIVER_MANAGER] INFO generic_nmea sensor detected: PVRS0
+2000-01-01 00:02:31 [DRIVER_MANAGER] INFO rain_pulse detected: rain_pulse0
+2000-01-01 00:02:32 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current1
+2000-01-01 00:02:32 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current2
+2000-01-01 00:02:32 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current3
+2000-01-01 00:02:32 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current4
+2000-01-01 00:02:32 [DRIVER_MANAGER] INFO OnboardSensors detected: board_sensors0
+2000-01-01 00:02:32 [DRIVER_MANAGER] INFO VoltInput detected: analog_voltage1
+2000-01-01 00:02:32 [DRIVER_MANAGER] INFO VoltInput detected: analog_voltage2
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: PVRS0
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: OIC05_2
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: OIC05_3
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: analog_voltage1
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: OIC05_1
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: analog_voltage2
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: analog_current1
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: analog_current3
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: analog_current2
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: rain_pulse0
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: GPS
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: MWV
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: analog_current4
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: board_sensors0
+2000-01-01 00:02:32 [LOGGER_MANAGER] INFO Log parameters appended: Cellular
+2000-01-01 00:02:32 [CONNECTION_MANAGER] INFO Webserver/SSL configuration detected
+2000-01-01 00:02:32 [CONNECTION_MANAGER] INFO FTP configuration detected
+2000-01-01 00:02:32 [APPLICATION] INFO Application started: 48000239
+2000-01-01 00:02:32 [APPLICATION] INFO File Syslog level: warn
+2000-01-01 00:02:32 [APPLICATION] INFO Repl Syslog level: info
+2000-01-01 00:02:32 [TEST] INFO Initiating self-test procedure
+2000-01-01 00:02:53 [UTIL] WARN Couldn't open file data/INIT_TEST_OMC_048_000101_000232.txt, stop retrying
+2000-01-01 00:02:53 [CONNECTION_MANAGER] INFO Onboard modem powered, power on delay 20 sec
+2000-01-01 00:03:44 [CONNECTION_MANAGER] ERROR Couldn't connect to modem, stopping
+2000-01-01 00:03:44 [CONNECTION_MANAGER] WARN Connection test failed, aborting test
+2000-01-01 00:03:44 [MODEM] INFO Onboard modem network disconnected
+2000-01-01 00:03:55 [CONNECTION_MANAGER] INFO Onboard modem shutdown
+2000-01-01 00:03:55 [TEST] INFO "MODEM": "FAILED, Couldn't connect to modem",
+AttributeError: Entering recovery mode...
+AttributeError: 'bool' object has no attribute 'write'
+2000-01-01 00:03:55 [RECOVERY] ERROR AttributeError: 'bool' object has no attribute 'write'
+Traceback (most recent call last):
+  File "script/application/main.py", line 14, in <module>
+  File "omc048_main.py", line 63, in run
+  File "self_test.py", line 32, in __init__
+  File "self_test.py", line 52, in add_custom_result
+AttributeError: 'bool' object has no attribute 'write'
+2000-01-01 00:03:55 [048RECOV] INFO recovery.txt detected
+2000-01-01 00:03:55 [CONNECTION_MANAGER] INFO Webserver/SSL configuration detected
+2000-01-01 00:03:55 [NOTIFICATION] ERROR Recovery mode is active
+2000-01-01 00:03:55 [APPHELPER] INFO DEBUG mode is active
+Changing mode to: DEBUG, please reconnect terminal
+2000-01-01 00:03:56 [SCHEDULER] INFO Enabled sleeping in between tasks
+2000-01-01 00:03:56 [CONNECTION_MANAGER] INFO Onboard modem powered, power on delay 20 sec
+2000-01-01 00:03:57 [SCHEDULER] INFO Sleep for 2.8 seconds
+2000-01-01 00:04:00 [048RECOV] WARN ****RECOVERY MODE ACTIVE****
+2000-01-01 00:04:00 [SCHEDULER] INFO Sleep for 4.791 seconds
+2000-01-01 00:04:06 [SCHEDULER] INFO Sleep for 8.803 seconds
+2000-01-01 00:04:15 [SCHEDULER] INFO Sleep for 1.308 seconds
+Changing mode to: REPL, please reconnect terminal
+2000-01-01 00:16:38 [APPHELPER] INFO REPL mode is active
+2000-01-01 00:16:38 [APPLICATION] INFO UTC time device offset: 0(hrs):0(min)
+2000-01-01 00:16:38 [GPS] INFO UTC automatic time synchronisation enabled on GPS
+2000-01-01 00:16:38 [DRIVER_MANAGER] INFO Acquiring parameters NavilockMd6 sensor: GPS
+2000-01-01 00:16:38 [DRIVER_MANAGER] INFO NavilockMd6 sensor detected: GPS
+INITING THIS
+INITING THIS
+INITING THIS
+INITING THIS
+2000-01-01 00:16:39 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_1
+2000-01-01 00:16:39 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_1
+2000-01-01 00:16:39 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_2
+2000-01-01 00:16:39 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_2
+2000-01-01 00:16:39 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_3
+2000-01-01 00:16:39 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_3
+2000-01-01 00:16:39 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_4
+2000-01-01 00:16:44 [DRIVER_MANAGER] WARN Sensor [OIC05_4] timeout occurred: 5000, Sensor not detected!
+2000-01-01 00:16:44 [NMEA_GEN] INFO Defined generic NMEA sentence(s): ['MWV']
+2000-01-01 00:16:44 [NMEA_GEN] INFO Defined generic NMEA sentence(s): ['PVRS0']
+2000-01-01 00:16:44 [DRIVER_MANAGER] INFO Acquiring parameters generic_nmea sensor: MWV
+2000-01-01 00:16:45 [DRIVER_MANAGER] INFO generic_nmea sensor detected: MWV
+2000-01-01 00:16:45 [DRIVER_MANAGER] INFO Acquiring parameters generic_nmea sensor: PVRS0
+2000-01-01 00:17:20 [DRIVER_MANAGER] INFO generic_nmea sensor detected: PVRS0
+2000-01-01 00:17:20 [DRIVER_MANAGER] INFO rain_pulse detected: rain_pulse0
+2000-01-01 00:17:20 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current1
+2000-01-01 00:17:20 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current2
+2000-01-01 00:17:20 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current3
+2000-01-01 00:17:20 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current4
+2000-01-01 00:17:20 [DRIVER_MANAGER] INFO OnboardSensors detected: board_sensors0
+2000-01-01 00:17:20 [DRIVER_MANAGER] INFO VoltInput detected: analog_voltage1
+2000-01-01 00:17:20 [DRIVER_MANAGER] INFO VoltInput detected: analog_voltage2
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: PVRS0
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: OIC05_2
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: OIC05_3
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: analog_voltage1
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: OIC05_1
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: analog_voltage2
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: analog_current1
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: analog_current3
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: analog_current2
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: rain_pulse0
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: GPS
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: MWV
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: analog_current4
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: board_sensors0
+2000-01-01 00:17:21 [LOGGER_MANAGER] INFO Log parameters appended: Cellular
+2000-01-01 00:17:21 [CONNECTION_MANAGER] INFO Webserver/SSL configuration detected
+2000-01-01 00:17:21 [CONNECTION_MANAGER] INFO FTP configuration detected
+2000-01-01 00:17:21 [APPLICATION] INFO Application started: 48000239
+2000-01-01 00:17:21 [APPLICATION] INFO File Syslog level: warn
+2000-01-01 00:17:21 [APPLICATION] INFO Repl Syslog level: info
+2000-01-01 00:17:21 [TEST] INFO Initiating self-test procedure
+2000-01-01 00:17:42 [UTIL] WARN Couldn't open file data/INIT_TEST_OMC_048_000101_001721.txt, stop retrying
+2000-01-01 00:17:42 [CONNECTION_MANAGER] INFO Onboard modem powered, power on delay 20 sec
+Changing mode to: REPL, please reconnect terminal
+2000-01-01 00:18:20 [APPHELPER] INFO REPL mode is active
+2000-01-01 00:18:20 [APPLICATION] INFO UTC time device offset: 0(hrs):0(min)
+2000-01-01 00:18:21 [GPS] INFO UTC automatic time synchronisation enabled on GPS
+2000-01-01 00:18:21 [DRIVER_MANAGER] INFO Acquiring parameters NavilockMd6 sensor: GPS
+2000-01-01 00:18:21 [DRIVER_MANAGER] INFO NavilockMd6 sensor detected: GPS
+INITING THIS
+INITING THIS
+INITING THIS
+INITING THIS
+2000-01-01 00:18:21 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_1
+2000-01-01 00:18:22 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_1
+2000-01-01 00:18:22 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_2
+2000-01-01 00:18:22 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_2
+2000-01-01 00:18:22 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_3
+2000-01-01 00:18:22 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_3
+2000-01-01 00:18:22 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_4
+2000-01-01 00:18:27 [DRIVER_MANAGER] WARN Sensor [OIC05_4] timeout occurred: 5000, Sensor not detected!
+2000-01-01 00:18:27 [NMEA_GEN] INFO Defined generic NMEA sentence(s): ['MWV']
+2000-01-01 00:18:27 [NMEA_GEN] INFO Defined generic NMEA sentence(s): ['PVRS0']
+2000-01-01 00:18:27 [DRIVER_MANAGER] INFO Acquiring parameters generic_nmea sensor: MWV
+2000-01-01 00:18:28 [DRIVER_MANAGER] INFO generic_nmea sensor detected: MWV
+2000-01-01 00:18:28 [DRIVER_MANAGER] INFO Acquiring parameters generic_nmea sensor: PVRS0
+
+Changing mode to: REPL, please reconnect terminal
+2000-01-01 00:00:05 [APPHELPER] INFO REPL mode is active
+2000-01-01 00:00:05 [APPLICATION] INFO UTC time device offset: 0(hrs):0(min)
+2000-01-01 00:00:06 [GPS] INFO UTC automatic time synchronisation enabled on GPS
+2000-01-01 00:00:06 [DRIVER_MANAGER] INFO Acquiring parameters NavilockMd6 sensor: GPS
+2000-01-01 00:00:06 [DRIVER_MANAGER] INFO NavilockMd6 sensor detected: GPS
+INITING THIS
+INITING THIS
+INITING THIS
+INITING THIS
+2000-01-01 00:00:06 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_1
+2000-01-01 00:00:06 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_1
+2000-01-01 00:00:06 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_2
+2000-01-01 00:00:07 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_2
+2000-01-01 00:00:07 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_3
+2000-01-01 00:00:07 [DRIVER_MANAGER] INFO generic_serial_input1 sensor detected: OIC05_3
+2000-01-01 00:00:07 [DRIVER_MANAGER] INFO Acquiring parameters generic_serial_input1 sensor: OIC05_4
+2000-01-01 00:00:12 [DRIVER_MANAGER] WARN Sensor [OIC05_4] timeout occurred: 5000, Sensor not detected!
+2000-01-01 00:00:12 [NMEA_GEN] INFO Defined generic NMEA sentence(s): ['MWV']
+2000-01-01 00:00:12 [NMEA_GEN] INFO Defined generic NMEA sentence(s): ['PVRS0']
+2000-01-01 00:00:12 [DRIVER_MANAGER] INFO Acquiring parameters generic_nmea sensor: MWV
+2000-01-01 00:00:13 [DRIVER_MANAGER] INFO generic_nmea sensor detected: MWV
+2000-01-01 00:00:13 [DRIVER_MANAGER] INFO Acquiring parameters generic_nmea sensor: PVRS0
+2000-01-01 00:00:47 [DRIVER_MANAGER] INFO generic_nmea sensor detected: PVRS0
+2000-01-01 00:00:47 [DRIVER_MANAGER] INFO rain_pulse detected: rain_pulse0
+2000-01-01 00:00:48 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current1
+2000-01-01 00:00:48 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current2
+2000-01-01 00:00:48 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current3
+2000-01-01 00:00:48 [DRIVER_MANAGER] INFO CurrentInput detected: analog_current4
+2000-01-01 00:00:48 [DRIVER_MANAGER] INFO OnboardSensors detected: board_sensors0
+2000-01-01 00:00:48 [DRIVER_MANAGER] INFO VoltInput detected: analog_voltage1
+2000-01-01 00:00:48 [DRIVER_MANAGER] INFO VoltInput detected: analog_voltage2
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: PVRS0
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: OIC05_2
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: OIC05_3
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: analog_voltage1
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: OIC05_1
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: analog_voltage2
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: analog_current1
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: analog_current3
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: analog_current2
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: rain_pulse0
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: GPS
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: MWV
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: analog_current4
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: board_sensors0
+2000-01-01 00:00:48 [LOGGER_MANAGER] INFO Log parameters appended: Cellular
+2000-01-01 00:00:48 [CONNECTION_MANAGER] INFO Webserver/SSL configuration detected
+2000-01-01 00:00:48 [CONNECTION_MANAGER] INFO FTP configuration detected
+2000-01-01 00:00:48 [APPLICATION] INFO Application started: 48000239
+2000-01-01 00:00:48 [APPLICATION] INFO File Syslog level: warn
+2000-01-01 00:00:48 [APPLICATION] INFO Repl Syslog level: info
+2000-01-01 00:00:48 [TEST] INFO Initiating self-test procedure
+2000-01-01 00:01:09 [UTIL] WARN Couldn't open file data/INIT_TEST_OMC_048_000101_000048.txt, stop retrying
+2000-01-01 00:01:09 [CONNECTION_MANAGER] INFO Onboard modem powered, power on delay 20 sec
+2000-01-01 00:02:00 [CONNECTION_MANAGER] ERROR Couldn't connect to modem, stopping
+2000-01-01 00:02:00 [CONNECTION_MANAGER] WARN Connection test failed, aborting test
+2000-01-01 00:02:00 [MODEM] INFO Onboard modem network disconnected
+2000-01-01 00:02:11 [CONNECTION_MANAGER] INFO Onboard modem shutdown
+2000-01-01 00:02:11 [TEST] INFO "MODEM": "FAILED, Couldn't connect to modem",
+AttributeError: Entering recovery mode...
+AttributeError: 'bool' object has no attribute 'write'
+2000-01-01 00:02:11 [RECOVERY] ERROR AttributeError: 'bool' object has no attribute 'write'
+Traceback (most recent call last):
+  File "script/application/main.py", line 14, in <module>
+  File "omc048_main.py", line 63, in run
+  File "self_test.py", line 32, in __init__
+  File "self_test.py", line 52, in add_custom_result
+AttributeError: 'bool' object has no attribute 'write'
+2000-01-01 00:02:11 [048RECOV] INFO recovery.txt detected
+2000-01-01 00:02:11 [CONNECTION_MANAGER] INFO Webserver/SSL configuration detected
+2000-01-01 00:02:11 [NOTIFICATION] ERROR Recovery mode is active
+2000-01-01 00:02:11 [APPHELPER] INFO DEBUG mode is active
+Changing mode to: DEBUG, please reconnect terminal
+2000-01-01 00:02:12 [SCHEDULER] INFO Enabled sleeping in between tasks
+2000-01-01 00:02:12 [CONNECTION_MANAGER] INFO Onboard modem powered, power on delay 20 sec
+2000-01-01 00:02:13 [SCHEDULER] INFO Sleep for 1.799 seconds
+2000-01-01 00:02:15 [SCHEDULER] INFO Sleep for 9.799001 seconds
+2000-01-01 00:02:26 [SCHEDULER] INFO Sleep for 6.387 seconds
+2000-01-01 00:03:00 [048RECOV] WARN ****RECOVERY MODE ACTIVE****
+2000-01-01 00:03:03 [CONNECTION_MANAGER] ERROR Couldn't connect to modem, stopping
+2000-01-01 00:03:03 [CONNECTION_MANAGER] INFO Onboard modem connection to network failed
+2000-01-01 00:03:03 [MODEM] INFO Onboard modem network disconnected
+2000-01-01 00:03:14 [SCHEDULER] INFO Sleep for 0.414 seconds
+2000-01-01 00:03:14 [CONNECTION_MANAGER] INFO Onboard modem shutdown
+2000-01-01 00:03:15 [SCHEDULER] INFO Sleep for 9.799001 seconds
+2000-01-01 00:03:25 [SCHEDULER] INFO Sleep for 9.798 seconds
+2000-01-01 00:03:36 [SCHEDULER] INFO Sleep for 8.802 seconds
+2000-01-01 00:03:45 [SCHEDULER] INFO Sleep for 9.798 seconds

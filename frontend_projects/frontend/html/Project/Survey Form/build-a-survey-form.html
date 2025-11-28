@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Survey Form</title>
+    <link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+    <h1 id="title" >Survey Form</h1>
+    <p id="description">Thank you for taking the time to help us improve the platform</p>
+    <form id="survey-form">
+      <fieldset>
+        <label id="name-label">Name <input id="name" name="name-label" type="text"  placeholder="Enter your name" required/></label>
+        <label id="email-label">Email <input id="email" type="email" name="email-label" placeholder="Enter your email" required/></label>
+        <label id="number-label">Age <input id="number" type="number" max="120" min="18" name="number-label" placeholder="Enter your Age"/></label>
+      </fieldset>
+      <fieldset>
+        <label> Which option best describes your current role?
+          <select id="dropdown" name="status">
+            <option value="2">Student</option>
+            <option value="1">Employed</option>
+            <option value="3">Employer</option>
+          </select>
+        </label>
+      </fieldset>
+      <fieldset>
+        <label>Would you recommend freeCodeCamp to a friend?
+          <label for="recommend">Yes <input type="radio" name="recommend" value="yes"/></label>
+          <label for="recommend">No
+          <input type="radio" name="recommend" value="no" /></label>
+        </label>
+      </fieldset>
+      <fieldset>
+        <label>What would you like to see improved?
+          <p>(check where applicable)</p>
+          <label><input value="web" type="checkbox"/>HTML and CSS</label>
+          <label><input value="calc" type="checkbox"/>Python</label>
+          <label><input value="db" type="checkbox"/>SQL</label>
+        </label>
+      </fieldset>
+      <textarea></textarea>
+      <input id="submit" value="submit" type="submit"/>
+    </form>
+  </body>
+</html>
